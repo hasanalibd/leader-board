@@ -192,12 +192,16 @@ hr{
         width: 100%;
     }
 
+    nav{
+        width: 100%;
+        margin: 0 auto;
+    }
     .nav-container{
         display: flex;
         justify-content: flex-start;  
         align-items: center;
         padding-top: 20px;
-        padding-left: 20px;
+        padding-left: 60px;
     }
 
     .left-side{
